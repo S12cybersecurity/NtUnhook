@@ -94,7 +94,7 @@ This tool and code samples are provided for educational and ethical red teaming 
 
 ## Author
 
-Developed by [Your Name]  
+Developed by 0x12 Dark Development  
 Red Team / Malware Developer
 
 ---

@@ -101,7 +101,7 @@ int main()
 {
     unordered_map<string, DWORD> hookedOffsets = GetHookedNtFunctionOffsets();
     // Added for debug purposes
-    hookedOffsets["NtCreateThread"] = 0;
+    // hookedOffsets["NtCreateThread"] = 0;
 
     HANDLE hProcess = createBenignProcess();
     std::vector<BYTE> cleanBuffer;

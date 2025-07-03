@@ -75,8 +75,6 @@ void RestoreHookedSyscalls(
 
         // Flush instruction cache
         FlushInstructionCache(GetCurrentProcess(), targetAddr, cleanSize);
-        std::cout << "[+] Restored syscall stub4: " << funcName << " at offset 0x" << std::hex << hookedOffset << "\n";
-        getchar();
         std::cout << "[+] Restored syscall stub: " << funcName << " at offset 0x" << std::hex << hookedOffset << "\n";
         getchar();
     }

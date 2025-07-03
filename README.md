@@ -1,4 +1,4 @@
-# SelectiveIn-MemoryNTDLLUnhooking
+# Selective In-Memory NTDLL Unhooking
 
 **Selective In-Memory Syscall Unhooking** is a stealthy method to bypass user-mode hooks in `ntdll.dll` by selectively restoring genuine syscall stubs from a clean copy of `ntdll.dll` loaded in a suspended child process. This approach avoids disk I/O, preserves process stability, and improves stealth against EDR/AV hooks.
 

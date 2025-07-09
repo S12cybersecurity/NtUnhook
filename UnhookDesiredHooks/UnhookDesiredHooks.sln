@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnhookDesiredHooks", "UnhookDesiredHooks\UnhookDesiredHooks.vcxproj", "{C5201EC3-3E42-48A4-989C-C0EE1BE7EA11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5201EC3-3E42-48A4-989C-C0EE1BE7EA11}.Debug|x64.ActiveCfg = Debug|x64
+		{C5201EC3-3E42-48A4-989C-C0EE1BE7EA11}.Debug|x64.Build.0 = Debug|x64
+		{C5201EC3-3E42-48A4-989C-C0EE1BE7EA11}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5201EC3-3E42-48A4-989C-C0EE1BE7EA11}.Debug|x86.Build.0 = Debug|Win32
+		{C5201EC3-3E42-48A4-989C-C0EE1BE7EA11}.Release|x64.ActiveCfg = Release|x64
+		{C5201EC3-3E42-48A4-989C-C0EE1BE7EA11}.Release|x64.Build.0 = Release|x64
+		{C5201EC3-3E42-48A4-989C-C0EE1BE7EA11}.Release|x86.ActiveCfg = Release|Win32
+		{C5201EC3-3E42-48A4-989C-C0EE1BE7EA11}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E78942C-D782-48A0-9CE0-FBBC8483932B}
+	EndGlobalSection
+EndGlobal

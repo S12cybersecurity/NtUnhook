@@ -4,6 +4,10 @@
 
 ---
 
+## Projects
+- **UnhookDetectedHooks**: This project unhooks the detected hooks by the AV in NTDLL
+- **UnhookDesiredHooks**: This project unhooks the choosed hooks by the AV in NTDLL
+
 ## Overview
 
 Modern Endpoint Detection and Response (EDR) and Antivirus (AV) solutions often hook native API functions in `ntdll.dll` to monitor system calls. Common bypass techniques either rely on hardcoded syscall numbers (which vary by OS version) or loading clean DLLs from disk (which triggers file access alerts).

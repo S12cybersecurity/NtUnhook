@@ -6,7 +6,7 @@
 
 ## Projects
 - **UnhookDetectedHooks**: This project unhooks the detected hooks by the AV in NTDLL
-- **UnhookDesiredHooks**: This project unhooks the choosed hooks by the AV in NTDLL
+- **UnhookDesiredHooks**: This project unhooks the chosen hooks by the AV in NTDLL
 
 ## Overview
 

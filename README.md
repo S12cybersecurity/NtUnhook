@@ -87,15 +87,6 @@ This tool and code samples are provided for educational and ethical red teaming 
 
 ---
 
-## References
-
-- [dosxuz's blog on syscall unhooking](https://dosxuz.gitlab.io)
-- [Cymulate EDR analysis](https://cymulate.com)
-- [Hell’s Gate and Heaven’s Gate techniques on GitHub](https://github.com)
-- [Perun’s Fart syscall unhooking technique](https://dosxuz.gitlab.io)
-
----
-
 ## Author
 
 Developed by 0x12 Dark Development  
